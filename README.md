@@ -1,2 +1,1 @@
-# echoserver
-Lab 1 Sistemas Distribuidos
+# Laboratório 1 - Servidor de Echos
